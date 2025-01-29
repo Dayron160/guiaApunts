@@ -27,19 +27,4 @@ Què pretenem amb tot açò?
 |Nombre|Apellidos|
 |------|---------|
 |Jose P.|Rocher|
-|DAM|
-|Roberto|Palmi|
-|Ariadna|Bataller|
-|Joan|Saneugenio|
-|Jordi|Patuel Pons|
-|Ivan F.|Frasquet|
-|Angel |Cantero|
-|Noé|Conde|
 |Dayron|Notario|
-|Ezequiel|Menor|
-|Daw|
-|Juan Carlos|Arango|
-|Rafa|Mompó|
-|Marc|Estruch|
-|Fran|Fornet|
-|Ayoub|Ammari|
